@@ -1,5 +1,8 @@
 {
   "name": "server-ts-vercel",
+  "engines": {
+  "node": "20.x"
+},
   "version": "3.4.0",
   "description": "",
   "main": "index.js",
